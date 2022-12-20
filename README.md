@@ -9,13 +9,6 @@ you can easily navigate your visit to USA!
 
 ```
 
-## Live Demo
-
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-
-Check out [FRONTEND LIVE DEMO](https://travelbug-frontend.andrerichmond.repl.co/) here!!
-
-Check out [API LIVE DEMO](https://travelbug-backend.andrerichmond.repl.co/) here!!
 
 ## Tech used
 
