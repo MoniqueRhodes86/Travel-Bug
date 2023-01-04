@@ -8,7 +8,7 @@ wild animals which you may be lucky enough to get a glimpse of! With this app,
 you can easily navigate your visit to USA!
 
 ```
-
+Check out[Frontend live demo] (https://frontend.moniquerhodes.repl.co/)
 
 ## Tech used
 
